@@ -4,10 +4,10 @@ This is the mid-term lab from Fanshawe College
 ## Installation
 Copy repository from Github to prefer project location.
 
-##Credits
+## Credits
 Gabriel Eugenio Chavez Portillo - CREATOR OF THIS REPOSITORY
 
-##MIT license
+## MIT license
 
 Copyright 2021 Gabriel Chavez
 
